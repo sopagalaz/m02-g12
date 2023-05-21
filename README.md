@@ -7,4 +7,4 @@ integrantes:<br>
 - Caterina Muñoz<br>
 - Valentina Fritis<br>
 - Javiera Riesco <br>
-
+- Sofía Galaz <br>
